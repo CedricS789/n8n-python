@@ -24,4 +24,4 @@ services:
       N8N_SECURE_COOKIE: "true"
     volumes:
       - ~/.n8n:/root/.n8n
-    tty: true
+    tty: true 
